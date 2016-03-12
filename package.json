@@ -10,6 +10,17 @@
     "index.js"
   ],
   "author": "akameco <akameco.t@gmail.com>",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/akameco/eslint-config-xo-react-space.git"
+  },
+  "bugs": {
+    "url": "https://github.com/akameco/eslint-config-xo-react-space/issues"
+  },
+  "homepage": "https://github.com/akameco/eslint-config-xo-react-space#readme",
   "license": "MIT",
   "keywords": [
     "❤️",
