@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-xo-react-space",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "ESLint shareable config for React with 2-space indent",
   "main": "index.js",
   "scripts": {
