@@ -1,4 +1,4 @@
-# eslint-config-xo-react-space [![Build Status](https://travis-ci.org/akameco/eslint-config-xo-react-space.svg?branch=master)](https://travis-ci.org/akameco/eslint-config-xo-react)
+# eslint-config-xo-react-space [![Build Status](https://travis-ci.org/akameco/eslint-config-xo-react-space.svg?branch=master)](https://travis-ci.org/akameco/eslint-config-xo-react-space)
 
 > ESLint [shareable config](http://eslint.org/docs/developer-guide/shareable-configs.html) for React with 2 space indent to be used with [eslint-config-xo](https://github.com/sindresorhus/eslint-config-xo)
 
